@@ -15,5 +15,36 @@ def main():
         else:
             print(f"{i} is odd")
 
+for i in range(5):
+        if is_even(i):
+            print(f"{i} is even")
+        else:
+            print(f"{i} is odd")
+            for i in range(5):
+        if is_even(i):
+            print(f"{i} is even")
+        else:
+            print(f"{i} is odd")
+            for i in range(5):
+        if is_even(i):dasdasdasda
+            print(f"{i} is even")
+        else:
+            print(f"{i} is odd")
+            for i in range(5):
+        if is_even(i):asasdasdasdd
+            print(f"{i} is even")
+        else:
+            print(f"{i} is odd")
+            for i in range(5):
+        if is_even(i):
+            print(f"{i} is even")
+        else:
+            print(f"{asdasdasdasdasdi} is odd")
+            for i in range(5):
+        if is_even(i)asdadasdasda:
+            print(f"{i} is even")
+        else:
+            print(f"{i} is odd")
+
 if __name__ == "__main__":
     main()
